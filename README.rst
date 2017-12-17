@@ -1,17 +1,17 @@
 apptoolkit
 ===========
 
-.. image:: https://img.shields.io/pypi/v/pypi-server.svg
+.. image:: https://img.shields.io/pypi/v/apptoolkit.svg
     :target: https://pypi.python.org/pypi/apptoolkit/
     :alt: Latest Version
 
-.. image:: https://img.shields.io/pypi/wheel/pypi-server.svg
+.. image:: https://img.shields.io/pypi/wheel/apptoolkit.svg
     :target: https://pypi.python.org/pypi/apptoolkit/
 
-.. image:: https://img.shields.io/pypi/pyversions/pypi-server.svg
+.. image:: https://img.shields.io/pypi/pyversions/apptoolkit.svg
     :target: https://pypi.python.org/pypi/apptoolkit/
 
-.. image:: https://img.shields.io/pypi/l/pypi-server.svg
+.. image:: https://img.shields.io/pypi/l/apptoolkit.svg
     :target: https://pypi.python.org/pypi/apptoolkit/
     
 Introduction
