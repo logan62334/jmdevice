@@ -4,7 +4,7 @@
     apptoolkit
     ~~~~~~~~~~~~
 
-    This module is the main config.
+    This module is the main apptoolkit.
 
     :copyright: (c) 2017 by Ma Fei.
 """
