@@ -17,11 +17,49 @@ apptoolkit
 Introduction
 -----------
 
-This is a lightweight set of tools for obtaining information about Android devices and iOS devices in Python
+This is a lightweight set of tools for obtaining information about Android devices in Python
 
+Installing
+----------
+
+Install and update using `pip`:
+
+.. code-block:: text
+
+    pip install -U apptoolkit
+
+A Simple Example
+----------------
+
+.. code-block:: python
+
+    from apptoolkit import Device
+
+    android_devices = Device.get_android_devices()
+
+    下面是输出信息：
+    [
+    {
+        "uid": "BY2WKN1519078327",
+        "rom_version": "Che2-UL00 V100R001CHNC00B287",
+        "brand": "Honor",
+        "os_version": "4.4.2",
+        "sdk_version": "19",
+        "os_type": "Android",
+        "model": "Che2-UL00"
+    },
+    {
+        "uid": "GWY0217414001213",
+        "rom_version": "MHA-AL00C00B213",
+        "brand": "HUAWEI",
+        "os_version": "7.0",
+        "sdk_version": "24",
+        "os_type": "Android",
+        "model": "MHA-AL00"
+    }
+    ]
+  
 Learn more
 -----------
 
-You can read this [blog][mafei-blog] to learn more about the `apptoolkit`.
-
-[mafei-blog]: http://mafei.me/
+You can read this http://mafei.me/ to learn more about the `apptoolkit`.
