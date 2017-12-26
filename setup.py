@@ -16,7 +16,7 @@ setup(
     name="apptoolkit",
     version=apptoolkit.__version__,
     description="apptoolkit",
-    long_description=open("README.md").read(),
+    long_description=open("README.rst").read(),
     license="MIT Licence",
 
     author="mafei",
