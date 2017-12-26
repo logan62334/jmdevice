@@ -58,13 +58,13 @@ A Simple Example
         "model": "MHA-AL00"
     }
     ]
-    
+
     ios_devices = Device().get_ios_devices()
-    
+
     下面是输出信息：
     [
     {
-        "uid": "071a4f504566bfc39c09d4301f8a4dcfaac1fd01",
+        "uid": "xxxxxxxxxxxxxx1f8a4dcfaac1fd01",
         "rom_version": "11.0.3",
         "brand": "iPhone",
         "device_name": "马飞的 iPhone",
