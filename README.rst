@@ -13,11 +13,11 @@ apptoolkit
 
 .. image:: https://img.shields.io/pypi/l/apptoolkit.svg
     :target: https://pypi.python.org/pypi/apptoolkit/
-    
+
 Introduction
 -----------
 
-This is a lightweight set of tools for obtaining information about Android devices in Python
+This is a lightweight set of tools for obtaining information about Android devices and iOS devices in Python
 
 Learn more
 -----------
