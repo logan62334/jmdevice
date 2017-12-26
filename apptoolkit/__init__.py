@@ -166,6 +166,6 @@ class Device:
                 dic['rom_version'] = output.strip('\n')
 
                 output = Shell.invoke('idevicename -u %s' % udid)
-                dic['device_name'] = output
+                dic['device_name'] = output.strip('\n')
                 devices.append(dic)
         return devices
