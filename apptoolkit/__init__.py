@@ -13,7 +13,7 @@ import json
 import os
 import subprocess
 
-__version__ = '0.0.4'
+__version__ = '0.0.5'
 
 
 class Shell:
@@ -143,7 +143,7 @@ class Device:
             config = json.loads(f.read())
 
         if len(output) > 0:
-            udids = output.strip('\n').split('\t')
+            udids = output.split('\n')
             for udid in udids:
                 dic = {"os_type": 'iOS', "uid": udid}
                 output = Shell.invoke('ideviceinfo -u %s -k ProductType' % udid)
