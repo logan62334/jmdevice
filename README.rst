@@ -73,7 +73,13 @@ A Simple Example
         "os_type": "iOS"
     }
     ]
-  
+
+.. code-block:: python
+
+    element = Element()
+    adb = ADB()
+    adb.touch(element.findElementByName(u"继续安装"))
+
 Learn more
 -----------
 
