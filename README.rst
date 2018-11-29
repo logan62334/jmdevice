@@ -17,7 +17,7 @@ apptoolkit
 Introduction
 -----------
 
-This is a lightweight set of tools for automation Python Wrapper
+This is a lightweight set of tools for UI Automation Assistant implemented in Python
 
 Installing
 ----------
