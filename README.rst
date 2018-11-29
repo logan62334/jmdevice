@@ -17,7 +17,7 @@ apptoolkit
 Introduction
 -----------
 
-This is a lightweight set of tools for obtaining information about Android devices in Python
+This is a lightweight set of tools for automation Python Wrapper
 
 Installing
 ----------
