@@ -4,4 +4,4 @@
 source venv/bin/activate
 rm -rf dist/*
 python setup.py bdist_wheel --universal
-twine upload dist/apptoolkit*
+twine upload dist/jmdevice*
