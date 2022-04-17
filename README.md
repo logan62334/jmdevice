@@ -1,17 +1,11 @@
 # jmdevice
 
-.. image:: https://img.shields.io/pypi/v/jmdevice.svg
-:target: https://pypi.python.org/pypi/jmdevice/
-:alt: Latest Version
-
-.. image:: https://img.shields.io/pypi/wheel/jmdevice.svg
-:target: https://pypi.python.org/pypi/jmdevice/
-
-.. image:: https://img.shields.io/pypi/pyversions/jmdevice.svg
-:target: https://pypi.python.org/pypi/jmdevice/
-
-.. image:: https://img.shields.io/pypi/l/jmdevice.svg
-:target: https://pypi.python.org/pypi/jmdevice/
+<p>
+<img src="https://img.shields.io/pypi/v/jmdevice.svg">
+<img src="https://img.shields.io/pypi/wheel/jmdevice.svg">
+<img src="https://img.shields.io/pypi/pyversions/jmdevice.svg">
+<img src="https://img.shields.io/pypi/l/jmdevice.svg">
+</p>
 
 # Installing
 
